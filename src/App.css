@@ -1,0 +1,25 @@
+/* INICIO */
+.App{
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  width: 98vw;
+}
+
+.content{
+  border: 2px solid green;
+  width: 99%;
+}
+
+/* EXAMPLE BUTTONS */
+.container-buttons{
+  margin: 10px 0;
+  display: flex;
+  flex-wrap: wrap;
+  border: 0.5px solid blue;
+}
+
+.item-button{
+  margin: 2.5px;
+  
+}
